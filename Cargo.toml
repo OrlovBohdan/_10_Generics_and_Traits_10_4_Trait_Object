@@ -1,0 +1,6 @@
+[package]
+name = "_10_Generics_and_Traits_10_4_Trait_Object"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
